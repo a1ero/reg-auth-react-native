@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "test",
+    "slug": "test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "entryPoint": ".vscode\\exponentIndex.js",
+    "sdkVersion": "46.0.0"
+  },
+  "name": "test"
+}
